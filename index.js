@@ -15,3 +15,13 @@ function johnLennonFacts(facts) {
   }
   return newFacts;
 }
+
+function iLoveTheBeetles(n) {
+  let a = []
+  
+  do {
+    a.push('I love the Beetles!')
+    n++
+  } while n < 15
+  return a
+}
