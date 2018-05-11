@@ -4,5 +4,5 @@ function theBeatlesPlay(musicians, instruments) {
     let b = (${musicians} + 'plays' + ${instruments})
     a.push(b)
   }
-  return a
+  return a;
 }
