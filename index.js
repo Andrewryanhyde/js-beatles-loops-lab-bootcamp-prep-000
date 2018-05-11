@@ -22,6 +22,6 @@ function iLoveTheBeetles(n) {
   do {
     a.push('I love the Beetles!')
     n++
-  } while n < 15
+  } while (n < 15)
   return a
 }
